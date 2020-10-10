@@ -1,4 +1,2 @@
-# comentario 1 
-coloquei um formulário simples sem armazenar e enviar dados
 # atividade3
-atividade gerência
+3º atividade de gerência de configuração e mudanças
